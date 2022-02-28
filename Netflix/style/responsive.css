@@ -1,0 +1,16 @@
+@media screen and (max-width: 700px) {
+    header .container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .home-top {
+        background-size: cover;
+        background-position: center;
+    }
+    .filme-principal .container {
+        padding: 50px 0 50px 0;
+    }
+}
